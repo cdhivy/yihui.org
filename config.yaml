@@ -1,6 +1,6 @@
-baseurl: "https://yihui.org/"
+baseurl: "https://lifeha.kr/"
 languageCode: "en-US"
-title: "Yihui Xie | 谢益辉"
+title: "lifehakr"
 theme: "hugo-paged"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 hasCJKLanguage: true
